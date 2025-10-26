@@ -1,0 +1,17 @@
+string method.txt
+
+length()
+concat=a.concate(b)
+charAt()
+charcodeAt()
+codePointAt()
+subString()
+at()
+slice()  //rmove the index
+toUppercase()
+toLowercase()
+trim(), trimStat(), trimEnd()
+repeat()
+replace()
+replaceAll()
+split()
